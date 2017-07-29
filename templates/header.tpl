@@ -102,23 +102,16 @@
 
 			<div id="et-info">
 
-				<a href="mailto:info@antergos.com"><span id="et-info-email">info@antergos.com</span></a>
-
 				<ul class="et-social-icons">
 
 					<li class="et-social-icon et-social-facebook">
-						<a href="//www.facebook.com/pages/Antergos/649575488393114" class="icon">
+						<a href="//www.facebook.com/altisdev/" class="icon">
 							<span>Facebook</span>
 						</a>
 					</li>
 					<li class="et-social-icon et-social-twitter">
-						<a href="//www.twitter.com/antergos" class="icon">
+						<a href="//www.twitter.com/altisdev/" class="icon">
 							<span>Twitter</span>
-						</a>
-					</li>
-					<li class="et-social-icon et-social-google-plus">
-						<a href="//plus.google.com/communities/116626481503903480477" class="icon">
-							<span>Google</span>
 						</a>
 					</li>
 					<li class="et-social-icon et-social-rss">
@@ -137,18 +130,13 @@
 					<ul class="et-social-icons">
 
 						<li class="et-social-icon et-social-facebook">
-							<a href="//www.facebook.com/antergos" class="icon">
+							<a href="//www.facebook.com/altisdev/" class="icon">
 								<span>Facebook</span>
 							</a>
 						</li>
 						<li class="et-social-icon et-social-twitter">
-							<a href="//www.twitter.com/antergos" class="icon">
+							<a href="//www.twitter.com/altisdev/" class="icon">
 								<span>Twitter</span>
-							</a>
-						</li>
-						<li class="et-social-icon et-social-google-plus">
-							<a href="//plus.google.com/communities/116626481503903480477" class="icon">
-								<span>Google</span>
 							</a>
 						</li>
 						<li class="et-social-icon et-social-rss">
@@ -160,17 +148,6 @@
 					</ul>
 				</div>
 				<ul id="et-secondary-nav" class="menu">
-					<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1343">
-						<a href="//antergos.com">Main</a></li>
-					<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1344">
-						<a href="//antergos.com/wiki">Wiki</a>
-					</li>
-					<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1345">
-						<a href="//build.antergos.com">Packages</a></li>
-					<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1346">
-						<a href="//github.com/antergos">Bugs</a></li>
-					<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1346">
-						<a href="http://status.antergos.com">Status</a></li>
 				</ul>
 			</div>
 			<!-- #et-secondary-menu -->
