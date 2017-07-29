@@ -20,63 +20,52 @@
 	</script>
 	<script src="{relative_path}/assets/nodebb.min.js?{config.cache-buster}"></script>
 
-	<script src="{relative_path}/assets/plugins/nodebb-theme-antergos/vendor/jquery.waypoints-4.0.1.min.js"></script>
-	<script src="{relative_path}/assets/plugins/nodebb-theme-antergos/vendor/js.cookie-1.5.1.min.js"></script>
+	<script src="/plugins/nodebb-theme-antergos/vendor/jquery.waypoints-4.0.1.min.js"></script>
+	<script src="/plugins/nodebb-theme-antergos/vendor/js.cookie-1.5.1.min.js"></script>
 
 
 	<link rel="stylesheet" id="et-gf-raleway-css" href="https://fonts.googleapis.com/css?family=Raleway:400,100,200,300,600,500,700,800,900&amp;subset=latin" type="text/css" media="all">
 	<link rel="stylesheet" id="et-gf-lato-css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic&amp;subset=latin" type="text/css" media="all">
 
-	<link rel="stylesheet" id="divi-style-css" href="{relative_path}/assets/plugins/nodebb-theme-antergos/vendor/style.css" type="text/css" media="all">
+	<link rel="stylesheet" id="divi-style-css" href="/plugins/nodebb-theme-antergos/vendor/style.css" type="text/css" media="all">
 
 	<style>
 		a {
 			color: #2EA3F2;
 		}
-
 		body {
 			color: #666666;
 		}
-
 		#et_search_icon:hover, .mobile_menu_bar:before, .footer-widget h4, .et-social-icon a:hover, .comment-reply-link, .form-submit input, .et_pb_sum, .et_pb_pricing li a, .et_pb_pricing_table_button, .et_overlay:before, .entry-summary p.price ins, .woocommerce div.product span.price, .woocommerce-page div.product span.price, .woocommerce #content div.product span.price, .woocommerce-page #content div.product span.price, .woocommerce div.product p.price, .woocommerce-page div.product p.price, .woocommerce #content div.product p.price, .woocommerce-page #content div.product p.price, .et_pb_member_social_links a:hover {
 			color: #2EA3F2 !important;
 		}
-
 		.woocommerce .star-rating span:before, .woocommerce-page .star-rating span:before, .et_pb_widget li a:hover, .et_pb_bg_layout_light .et_pb_promo_button, .et_pb_bg_layout_light .et_pb_more_button, .et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active, .et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active, .et_pb_gallery .et_pb_gallery_pagination ul li a.active, .wp-pagenavi span.current, .wp-pagenavi a:hover, .et_pb_contact_submit, .et_pb_bg_layout_light .et_pb_newsletter_button, .nav-single a, .posted_in a {
 			color: #2EA3F2 !important;
 		}
-
 		.et-search-form, .nav li ul, .et_mobile_menu, .footer-widget li:before, .et_pb_pricing li:before, blockquote {
 			border-color: #2EA3F2;
 		}
-
 		#main-footer {
 			background-color: #222222;
 		}
-
 		#top-menu a {
 			color: #666666;
 		}
-
 		#top-header .et-container {
 			padding-top: 10px;
 		}
-
 		.et-container {
 			margin: 0 auto;
 			position: relative;
 			padding-left: 35px;
 			padding-right: 43px
 		}
-
 		#top-menu li.current-menu-ancestor > a, #top-menu li.current-menu-item > a, .bottom-nav li.current-menu-item > a {
 			color: #2EA3F2;
 		}
-
 		h1, h2, h3, h4, h5, h6 {
 			font-family: 'Raleway', Helvetica, Arial, Lucida, sans-serif !important;
 		}
-
 		body, input, textarea, select {
 			font-family: 'Open Sans', Helvetica, Arial, Lucida, sans-serif !important;
 		}
