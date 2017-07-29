@@ -100,8 +100,8 @@
 	<!-- END categories -->
 </div>
 <div widget-area="sidebar" class="col-lg-3 col-sm-12 hm-sidebar sidebar">
-<!-- BEGIN widgets.sidebar -->
-{{widgets.sidebar.html}}
-<!-- END widgets.sidebar -->
+  <!-- BEGIN widgets.sidebar -->
+    {{widgets.sidebar.html}}
+  <!-- END widgets.sidebar -->
 </div>
 </div>
