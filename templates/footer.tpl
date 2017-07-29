@@ -41,9 +41,5 @@
 	</div>
 </div>
 	<div component="toaster/tray" class="alert-window"></div>
-
-<script>
-	require(['forum/footer']);
-</script>
 </body>
 </html>
