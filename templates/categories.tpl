@@ -97,8 +97,7 @@
 		</div>
 		<!-- END children -->
 	</div>
-
-
 	<!-- END categories -->
 </div>
-<div widget-area="sidebar" class="col-lg-3 col-sm-12 hm-sidebar sidebar"></div></div>
+<div widget-area="sidebar" class="col-lg-3 col-sm-12 hm-sidebar sidebar"></div>
+</div>
